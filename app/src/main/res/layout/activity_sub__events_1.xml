@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.mnnitcentral.Sub_Events_1"
+    android:orientation="vertical">
+    <include layout="@layout/toolbar_layout"
+        android:id="@+id/sub_events_1"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/image_1"
+        android:padding="10dp"
+        android:scaleType="fitXY">
+
+    </ImageView>
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recycleview_1"></android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

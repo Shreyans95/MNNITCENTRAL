@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64829454749",
+    "firebase_url": "https://mnnitcentral-a1269.firebaseio.com",
+    "project_id": "mnnitcentral-a1269",
+    "storage_bucket": "mnnitcentral-a1269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64829454749:android:bfbbf87814f94835",
+        "android_client_info": {
+          "package_name": "com.example.android.mnnitcentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64829454749-o6gqub52df6dalkrt1u486r5olq9p5fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.mnnitcentral",
+            "certificate_hash": "04c60b8ec6e354de60559d2a29fae55040d08452"
+          }
+        },
+        {
+          "client_id": "64829454749-5d2btk8pon0l0fk839jv076a8sjrclc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVCKRteoMmkBQdg79kcru5C-sCxprwXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64829454749-5d2btk8pon0l0fk839jv076a8sjrclc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

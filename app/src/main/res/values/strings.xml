@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MNNIT CENTRAL</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Registration">Registration</string>
+    <string name="TLB">Text Lending Book</string>
+    <string name="Avishkar">Avishkar</string>
+    <string name="Culrav">Culrav</string>
+    <string name="asd">second</string>
+    <string name="Reg_details">This tab will let u have a brief over view over all the procedures
+    that MNNIT takes for the reg process</string>
+    <string name="book_detials">TLB is a online booking system for books provided by MNNIT for the
+    benefits of the students</string>
+    <string name="avishkar_details">A fest organised by the students of the MNNIT, which gives a lots of possibilities
+    to come and expplore your talents</string>
+    <string name="culrav_details">Annual fest organised by MNNIT during March last, presenting varities of
+    events, and an awesome place to enjoy</string>
+    <string name="title_activity_try">Map</string>
+</resources>
